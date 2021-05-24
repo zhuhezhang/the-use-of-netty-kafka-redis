@@ -1,7 +1,7 @@
 /**
  * 从Kafka队列中读取信息并将该信息返回
  * 
- * @author 朱和章
+ * @author zhz
  */
 
 import java.util.Collections;
