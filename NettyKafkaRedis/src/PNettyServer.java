@@ -1,7 +1,7 @@
 /**
  * Netty服务端类
  * 
- *  @author 朱和章
+ *  @author zhz
  */
 
 import io.netty.bootstrap.ServerBootstrap;
