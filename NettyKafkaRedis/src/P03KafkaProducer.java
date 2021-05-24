@@ -1,7 +1,7 @@
 /**
  * 通过Netty获取Crawler发送过来的信息并将其保存到Kafka队列
  * 
- * @author 朱和章
+ * @author zhz
  */
 
 import java.util.Properties;
