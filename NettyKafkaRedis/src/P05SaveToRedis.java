@@ -1,7 +1,7 @@
 /**
  * 将传过来的信息保存到Redis
  * 
- * @author 朱和章
+ * @author zhz
  */
 
 import redis.clients.jedis.Jedis;
