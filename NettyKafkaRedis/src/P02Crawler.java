@@ -1,7 +1,7 @@
 /**
  * 爬取网站信息并通过Netty传到P03KafkaProducer
  * 
- * @author 朱和章
+ * @author zhz
  */
 
 import java.io.*;
