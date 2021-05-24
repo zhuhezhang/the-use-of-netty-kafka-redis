@@ -3,7 +3,7 @@
  * Kafka队列，同时保留html的url信息; 从Apache Kafka队列中读取文本信息以及url信息;
  * 将读取到的信息再保存至Redis（内存数据库，注意字段划分）; 该文件为程序入口。
  * 
- * @author 朱和章
+ * @author zhz
  */
 
 public class P01Main implements Runnable {
